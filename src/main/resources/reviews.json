@@ -1,0 +1,68 @@
+{
+  "reviews": [
+    {
+      "itemId": "REV-01",
+      "reviewerName": "Alex Smith",
+      "starRating": 4.5,
+      "isVerified": true,
+      "commentText": "Great quality.",
+      "helpfulVotes": 12
+    },
+    {
+      "itemId": "REV-02",
+      "reviewerName": "Jordan P.",
+      "starRating": 2.0,
+      "isVerified": false,
+      "commentText": "Arrived broken.",
+      "helpfulVotes": 2
+    },
+    {
+      "itemId": "REV-03",
+      "reviewerName": "Sam T.",
+      "starRating": 5.0,
+      "isVerified": true,
+      "commentText": "Exceeded expectations!",
+      "helpfulVotes": 34
+    },
+    {
+      "itemId": "REV-04",
+      "reviewerName": "Casey L.",
+      "starRating": 3.5,
+      "isVerified": true,
+      "commentText": "Decent price.",
+      "helpfulVotes": 0
+    },
+    {
+      "itemId": "REV-05",
+      "reviewerName": "Riley M.",
+      "starRating": 1.0,
+      "isVerified": true,
+      "commentText": "Never received.",
+      "helpfulVotes": 115
+    },
+    {
+      "itemId": "REV-06",
+      "reviewerName": "Jamie D.",
+      "starRating": 4.0,
+      "isVerified": false,
+      "commentText": "Good, color off.",
+      "helpfulVotes": 5
+    },
+    {
+      "itemId": "REV-07",
+      "reviewerName": "Morgan K.",
+      "starRating": 5.0,
+      "isVerified": true,
+      "commentText": "Life changer.",
+      "helpfulVotes": 89
+    },
+    {
+      "itemId": "REV-08",
+      "reviewerName": "Taylor R.",
+      "starRating": 3.0,
+      "isVerified": true,
+      "commentText": "Average.",
+      "helpfulVotes": 1
+    }
+  ]
+}
